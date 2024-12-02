@@ -1,0 +1,92 @@
+0 1 39
+0 1 46
+0 2 21
+0 2 56
+0 3 4
+0 3 22
+0 3 25
+0 3 48
+0 4 9
+0 4 24
+0 4 24
+0 4 38
+0 4 47
+0 4 49
+0 7 2
+1 2 16
+1 2 28
+1 2 29
+1 2 35
+1 2 44
+1 3 32
+1 3 47
+1 4 26
+1 4 35
+1 4 50
+2 3 4
+2 3 18
+2 3 22
+2 3 31
+2 3 33
+2 3 45
+2 3 56
+2 6 9
+2 9 11
+3 4 37
+3 4 51
+3 9 5
+4 9 14
+5 6 8
+6 7 14
+7 8 2
+GRAPH
+inf 46 67 22 83 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+46 inf 53 66 61 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+67 53 inf 33 96 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+22 66 33 inf 51 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+83 61 96 51 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf 74 90 54 24 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf 74 inf 29 64 50 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf 90 29 inf 45 70 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf 54 64 45 inf 55 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf 24 50 70 55 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf 57 58 25 62 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf 57 inf 35 76 35 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf 58 35 inf 22 97 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf 25 76 22 inf 63 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf 62 35 97 63 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 91 69 72 47 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 91 inf 61 47 87 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 69 61 inf 31 57 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 72 47 31 inf 37 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 47 87 57 37 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 72 21 67 9 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 72 inf 16 63 33 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 21 16 inf 18 51 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 67 63 18 inf 75 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 9 33 51 75 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 33 62 4 38 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 33 inf 28 32 48 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 62 28 inf 95 67 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 4 32 95 inf 70 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 38 48 67 70 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 50 56 70 24 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 50 inf 75 65 26 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 56 75 inf 56 91 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 70 65 56 inf 80 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 24 26 91 80 inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 93 63 48 49 inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 93 inf 44 62 67 inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 63 44 inf 4 99 inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 48 62 4 inf 68 inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 49 67 99 68 inf inf inf inf inf inf inf inf inf inf inf
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 39 83 27 67 29 50 2 21 89
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 39 inf 48 47 75 86 75 83 89 92
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 83 48 inf 45 93 98 9 40 75 11
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 27 47 45 inf 72 85 17 30 33 5
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 67 75 93 72 inf 42 30 28 78 14
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 29 86 98 85 42 inf 8 100 73 81
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 50 75 9 17 30 8 inf 14 68 25
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 2 83 40 30 28 100 14 inf 2 68
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 21 89 75 33 78 73 68 2 inf 60
+inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf 89 92 11 5 14 81 25 68 60 inf
